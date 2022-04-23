@@ -1,7 +1,8 @@
 
 # CopeUp
 
-![logo](https://github.com/nikhatshaikh11/CopeUp/upload/main/images/logo.PNG)
+![logo](images/logo.PNG)
+<img src="images/logo.PNG">
 
 An effort towards helping you cope with anxiety and stress
 
@@ -45,19 +46,16 @@ JavaScript
 
 ## User Flow
 
-![user_flow](https://github.com/nikhatshaikh11/CopeUp/upload/main/images/user_flow.png)
+![user_flow](images/user_flow.png)
+
 ## Screenshots/GIFs
 
-![homepage](https://github.com/nikhatshaikh11/CopeUp/upload/main/images/homepage.gif)
+![homepage](images/homepage.gif)
 
-![sounds](https://github.com/nikhatshaikh11/CopeUp/upload/main/images/sounds.gif)
+![sounds](images/sounds.gif)
 
-![songs](https://github.com/nikhatshaikh11/CopeUp/upload/main/images/songs.gif)
+![songs](images/songs.gif)
 
-![tweet](https://github.com/nikhatshaikh11/CopeUp/upload/main/images/tweet.gif)
+![tweet](images/tweet.gif)
 
-![meditate](https://github.com/nikhatshaikh11/CopeUp/upload/main/images/meditate.gif)
-
-
-
-![logo](https://github.com/nikhatshaikh11/CopeUp/upload/main/images/logo.PNG)
+![meditate](images/meditate.gif)
