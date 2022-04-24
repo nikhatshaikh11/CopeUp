@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="copeup.css">
+    <script src="https://kit.fontawesome.com/1cc0756381.js" crossorigin="anonymous"></script>
+    <title>Ways to CopeUp</title>
+</head>
+<body>
+    <section class="nature__sounds__container">
+        <div class="sounds__heading">
+            <h3>Sounds of Nature to sooth your heart...</h3>
+            <p>Go full screen and forget the world for some time :)</p>
+        </div>
+        <div class="video" id="video">
+            <h5 class="video__name">Sounds of Raindrops</h5>
+            <video class="video__frame" width="600" controls loop>
+                <source src="assets/rains_sound.mp4" type="video/mp4">
+            </video>
+        </div>
+
+        <div class="video" id="video">
+            <h5 class="video__name">Sounds of Ocean</h5>
+            <video class="video__frame" width="600" controls loop>
+                <source src="assets/ocean_sound.mp4" type="video/mp4">
+            </video>
+        </div>
+    </section>
+   
+    <section class="songs__container" id="songs__container">
+        <div class="songs__heading">
+            <h3>Music that touches your soul!</h3>
+        </div>
+
+        <div class="songs__list">
+            <div class="song__audio">
+                <img class="song_img" src="assets/tum_ho_image.jpg" alt="alone" style="width: 400px;">
+                <h5 class="song__name">Tum Ho</h5>
+                <audio class="audio" src="assets/TumHo.mp3" controls></audio>
+            </div>
+
+            <div class="song__audio">
+                <img class="song_img" src="assets/kunfayakun_img.jpg" alt="peace" style="width: 400px;">
+                <h5 class="song__name">Kun Fayakun</h5>
+                <audio class="audio" src="assets/KunFayaKun.mp3" controls></audio>
+            </div>
+
+            <div class="song__audio">
+                <img class="song_img" src="assets/nadanParindey_image.jpg" alt="hope" style="width: 400px;">
+                <h5 class="song__name">Nadaan Parindey</h5>
+                <audio class="audio" src="assets/NadaanParindey.mp3" controls></audio>
+            </div>
+        </div>    
+    </section>
+
+    <section class="tweet__container" id="tweet__container">
+        <div class="tweet__heading">
+            <h3>Write positive affirmations for yourself and click on the Tweet icon!</h3>
+        </div>
+        <div class="takeinput">
+            <div class="input">
+                <textarea class="message" name="message" id="message" cols="60" rows="10" maxlength="280" placeholder="Start typing"></textarea>
+            </div>
+
+            <span id='remainingChars'>
+                <p id="counter"></p>
+            </span>
+
+            <div class="tweetBtn">
+                <button id="tweetMe" onclick="myFunction()"><i class="fa-brands fa-twitter"></i></button>
+            </div>
+        </div>
+    </section>
+
+    <section class="footer__container">
+        <h3 class="footer__logo">CopeUp.</h3>
+        <p class="footer__text">Made with <i class="fa-solid fa-heart"></i> by Nikhat</p>
+        <p class="copyright__text">CopeUp. All Rights Reserved.</p>
+    </section>
+
+    <script src="copeup.js"></script>
+</body>
+</html>
