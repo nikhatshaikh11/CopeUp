@@ -6,6 +6,10 @@ An effort towards helping you cope with anxiety and stress
 
 <img src="images/logo.PNG">
 
+## URL
+
+https://copeup.netlify.app/
+
 ## Problem Statement
 
 Yound Indians generally face stress and anxiety due to studies, societal expectations, work load etc. This anxiety, if uncontrolled, can result in anxiety disorder in future. 
