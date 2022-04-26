@@ -12,7 +12,7 @@ https://copeup.netlify.app/
 
 ## Problem Statement
 
-Yound Indians generally face stress and anxiety due to studies, societal expectations, work load etc. This anxiety, if uncontrolled, can result in anxiety disorder in future. 
+Young Indians generally face stress and anxiety due to studies, societal expectations, work load etc. This anxiety, if uncontrolled, can result in anxiety disorder in future. 
 
 The problem with a lot of people is that they want to deal with their anxiety effectively but do not know where to start. Too much information available on the internet makes it difficult to stick to one solution. 
 
